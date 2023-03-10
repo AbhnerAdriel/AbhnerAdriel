@@ -1,6 +1,6 @@
 ## Hi! I'm Abhner! 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhner-adriel-in-profile)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhner-adriel-in-profile/)
 [![Instagram](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.cin.ufpe.br/~aacs2/)
 
 ![Abhner's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhnerAdriel&show_icons=true&theme=dracula)

@@ -17,8 +17,8 @@
 
 <br/>
 
-<!--
+
 Computer Science student at the Centro of Informática at UFPE. Python and Machine learning enthusiast. Game Developer on the Unity engine.
 - [UFPE](https://www.ufpe.br/ciencia-da-computacao-bacharelado-cin) <br/>
 - [Cin-UFPE](https://portal.cin.ufpe.br/) <br/>
--->
+

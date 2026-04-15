@@ -17,7 +17,11 @@
 
 Atuo como desenvolvedor Full Stack com experiência prática na construção de aplicações modernas, escaláveis e bem estruturadas. Tenho domínio tanto no front-end quanto no back-end, aplicando boas práticas, arquitetura limpa e padrões de projeto.
 
-Também venho aprofundando meus conhecimentos em Inteligência Artificial e Machine Learning, indo desde fundamentos até técnicas mais avançadas.
+Também possuo experiência sólida com plataformas educacionais (LMS), especialmente com **Moodle**, atuando na gestão, administração e desenvolvimento de soluções personalizadas, incluindo customizações de interface, integrações e melhorias de performance.
+
+Tenho forte atuação com **PHP aplicado ao Moodle**, desenvolvendo plugins, realizando manutenção de código legado, criando integrações e implementando melhorias estruturais no core e em extensões da plataforma.
+
+Além disso, venho aprofundando meus conhecimentos em Inteligência Artificial e Machine Learning, indo desde fundamentos até técnicas mais avançadas.
 
 ---
 
@@ -40,6 +44,13 @@ Também venho aprofundando meus conhecimentos em Inteligência Artificial e Mach
 - TypeScript  
 - Integração com APIs REST usando NestJS  
 
+✔ **PHP (aplicado ao Moodle LMS)**  
+- Desenvolvimento de plugins e módulos personalizados  
+- Manutenção e evolução de código legado  
+- Integração com APIs externas  
+- Customização de funcionalidades do core do Moodle  
+- Boas práticas de desenvolvimento no ecossistema Moodle  
+
 ✔ **Python (IA / Machine Learning / Deep Learning)**  
 - Regressão Linear e Logística  
 - PCA, K-Means, DBSCAN, Clusterização Hierárquica, GMM  
@@ -59,12 +70,19 @@ Também venho aprofundando meus conhecimentos em Inteligência Artificial e Mach
 - MySQL / PostgreSQL / MariaDB  
 - Query Builders (Knex.js)
 
+✔ **LMS & Moodle**  
+- Gestão e administração de ambientes virtuais de aprendizagem  
+- Customização de temas e interface (front-end)  
+- Desenvolvimento e manutenção de plugins (back-end)  
+- Integrações com APIs e sistemas externos  
+- Otimização de performance e escalabilidade  
+
 ---
 
 ## 🧰 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,nestjs,express,mongodb,postgres,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,nestjs,express,mongodb,postgres,redux,tailwind,php" />
 </p>
 
 ---

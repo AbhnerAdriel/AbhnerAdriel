@@ -20,13 +20,17 @@
 
 ## 🚀 About Me
 
-I am a **Full Stack Developer** with hands-on experience building modern, scalable, and well-structured applications. I work across both front-end and back-end, applying best practices, clean architecture, and design patterns.
+I am a **Full Stack Developer** with hands-on experience building modern, scalable, and well-structured applications. I work across both front-end and back-end using technologies such as JavaScript, TypeScript, Python, and PHP, applying best practices, clean architecture, and design patterns.
 
-I also have solid experience with Learning Management Systems (LMS), especially **Moodle**, working on management, administration, and development of customized solutions, including UI customizations, integrations, and performance improvements.
+On the **front-end**, I have solid experience with React and Next.js, creating responsive and high-performance user interfaces. On the **back-end**, I work with Node.js using frameworks like NestJS and Express, building robust APIs and scalable systems.
 
-I have strong experience with **PHP applied to Moodle**, developing plugins, maintaining legacy systems, building integrations, and improving both core and extension structures.
+I also have experience working with databases such as **MongoDB** and **PostgreSQL**, as well as state management tools like Redux and styling solutions like Tailwind CSS.
 
-Additionally, I’ve been deepening my knowledge in **Artificial Intelligence and Machine Learning**, covering everything from fundamentals to advanced techniques.
+Additionally, I have strong experience with **Learning Management Systems (LMS)**, especially **Moodle**, working on management, administration, and development of customized solutions, including UI customizations, integrations, and performance improvements.
+
+I have extensive experience with **PHP** applied to Moodle, developing plugins, maintaining legacy systems, building integrations, and improving both core and extension structures.
+
+I also have solid expertise in **Artificial Intelligence and Machine Learning**, working with both fundamental and advanced techniques such as Linear and Logistic Regression, PCA, Manifold Learning, and clustering algorithms including K-Means, DBSCAN, Hierarchical Clustering, and Gaussian Mixture Models (GMM). My experience also includes Neural Networks (CNNs and LSTMs), as well as modern AI approaches like BERT, YOLO, Transfer Learning, Autoencoders (VAEs), Generative Adversarial Networks (GANs), Diffusion Models, and applications involving Large Language Models (LLMs) and frameworks such as LangChain.
 
 ---
 

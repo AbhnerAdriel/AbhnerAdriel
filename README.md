@@ -5,62 +5,62 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=240&section=header&text=Full%20Stack%20Developer&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=JS%2FTS%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20PHP%20%E2%80%A2%20Python%20IA%2FML%20%E2%80%A2%20SQL%20and%20NoSQL&descSize=17&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=240&section=header&text=Full%20Stack%20Developer&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=JS%2FTS%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20PHP%20%E2%80%A2%20Python%20AI%2FML%20%E2%80%A2%20SQL%20and%20NoSQL&descSize=17&descAlignY=60" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou Abhner Adriel</h1>
+<h1 align="center">👋 Hi, I'm Abhner Adriel</h1>
 
 <p align="center">
-  🎓 Bacharelando em Ciência da Computação — CIn UFPE <br/>
-  💻 Desenvolvedor Full Stack | 🤖 IA e Machine Learning <br/>
-  📈 3+ anos de experiência no mercado
+  🎓 Computer Science Undergraduate — CIn UFPE <br/>
+  💻 Full Stack Developer | 🤖 AI & Machine Learning <br/>
+  📈 3+ years of industry experience
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Atuo como **desenvolvedor Full Stack** com experiência prática na construção de aplicações modernas, escaláveis e bem estruturadas. Tenho domínio tanto no front-end quanto no back-end, aplicando boas práticas, arquitetura limpa e padrões de projeto.
+I am a **Full Stack Developer** with hands-on experience building modern, scalable, and well-structured applications. I work across both front-end and back-end, applying best practices, clean architecture, and design patterns.
 
-Também possuo experiência sólida com plataformas educacionais (LMS), especialmente com **Moodle**, atuando na gestão, administração e desenvolvimento de soluções personalizadas, incluindo customizações de interface, integrações e melhorias de performance.
+I also have solid experience with Learning Management Systems (LMS), especially **Moodle**, working on management, administration, and development of customized solutions, including UI customizations, integrations, and performance improvements.
 
-Tenho forte atuação com **PHP aplicado ao Moodle**, desenvolvendo plugins, realizando manutenção de código legado, criando integrações e implementando melhorias estruturais no core e em extensões da plataforma.
+I have strong experience with **PHP applied to Moodle**, developing plugins, maintaining legacy systems, building integrations, and improving both core and extension structures.
 
-Além disso, venho aprofundando meus conhecimentos em **Inteligência Artificial e Machine Learning**, indo desde fundamentos até técnicas mais avançadas.
+Additionally, I’ve been deepening my knowledge in **Artificial Intelligence and Machine Learning**, covering everything from fundamentals to advanced techniques.
 
 ---
 
-## 🧠 Stack Principal (direto ao ponto)
+## 🧠 Core Stack (straight to the point)
 
 ✔ **JavaScript & TypeScript (Full Stack)**  
-- Front-end e Back-end  
+- Front-end and Back-end  
 - Node.js, Express  
-- APIs REST  
-- Bancos NoSQL  
+- REST APIs  
+- NoSQL Databases  
 - React (Hooks, Context API)  
 - Redux  
 - Design Patterns  
 
-✔ **React 19 & Next.js 15 (moderno)**  
+✔ **React 19 & Next.js 15 (Modern)**  
 - App Router  
 - Server Components  
 - Server Actions  
 - Tailwind CSS  
 - TypeScript  
-- Integração com APIs REST usando NestJS  
+- API integration using NestJS  
 
-✔ **PHP (aplicado ao Moodle LMS)**  
-- Desenvolvimento de plugins e módulos personalizados  
-- Manutenção e evolução de código legado  
-- Integração com APIs externas  
-- Customização de funcionalidades do core do Moodle  
-- Boas práticas de desenvolvimento no ecossistema Moodle  
+✔ **PHP (Moodle LMS)**  
+- Custom plugin and module development  
+- Legacy code maintenance and refactoring  
+- External API integrations  
+- Core Moodle customization  
+- Best practices within the Moodle ecosystem  
 
-✔ **Python (IA / Machine Learning / Deep Learning)**  
-- Regressão Linear e Logística  
-- PCA, K-Means, DBSCAN, Clusterização Hierárquica, GMM  
+✔ **Python (AI / Machine Learning / Deep Learning)**  
+- Linear & Logistic Regression  
+- PCA, K-Means, DBSCAN, Hierarchical Clustering, GMM  
 - Manifold Learning  
-- Redes Neurais (CNN, RNN, LSTM, GRU)  
+- Neural Networks (CNN, RNN, LSTM, GRU)  
 - BERT, YOLO  
 - Transfer Learning  
 - GANs, VAEs, Autoencoders  
@@ -69,22 +69,22 @@ Além disso, venho aprofundando meus conhecimentos em **Inteligência Artificial
 - Graph Neural Networks  
 - Reinforcement Learning  
 
-✔ **SQL & Banco de Dados Relacional**  
-- Modelagem de dados  
-- Queries complexas  
+✔ **SQL & Relational Databases**  
+- Data modeling  
+- Complex queries  
 - MySQL / PostgreSQL / MariaDB  
-- Query Builders (Knex.js)
+- Query builders (Knex.js)  
 
 ✔ **LMS & Moodle**  
-- Gestão e administração de ambientes virtuais de aprendizagem  
-- Customização de temas e interface (front-end)  
-- Desenvolvimento e manutenção de plugins (back-end)  
-- Integrações com APIs e sistemas externos  
-- Otimização de performance e escalabilidade  
+- LMS management and administration  
+- UI/UX customization (front-end)  
+- Plugin development and maintenance (back-end)  
+- API and system integrations  
+- Performance and scalability optimization  
 
 ---
 
-## 🧰 Tecnologias
+## 🧰 Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,nestjs,express,mongodb,postgres,redux,tailwind,php" />
@@ -92,7 +92,7 @@ Além disso, venho aprofundando meus conhecimentos em **Inteligência Artificial
 
 ---
 
-## 🌐 Contato
+## 🌐 Contact
 
 <p align="left">
   <a href="https://SEU-SITE-AQUI.com" target="_blank">

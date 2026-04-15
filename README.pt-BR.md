@@ -18,15 +18,19 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-Atuo como **desenvolvedor Full Stack** com experiência prática na construção de aplicações modernas, escaláveis e bem estruturadas. Tenho domínio tanto no front-end quanto no back-end, aplicando boas práticas, arquitetura limpa e padrões de projeto.
+Sou um **Desenvolvedor Full Stack** com experiência prática na construção de aplicações modernas, escaláveis e bem estruturadas. Atuo tanto no front-end quanto no back-end utilizando tecnologias como JavaScript, TypeScript, Python e PHP, aplicando boas práticas, arquitetura limpa e padrões de projeto.
 
-Também possuo experiência sólida com plataformas educacionais (LMS), especialmente com **Moodle**, atuando na gestão, administração e desenvolvimento de soluções personalizadas, incluindo customizações de interface, integrações e melhorias de performance.
+No **front-end**, possuo sólida experiência com React e Next.js, criando interfaces responsivas e de alta performance. No **back-end**, trabalho com Node.js utilizando frameworks como NestJS e Express, desenvolvendo APIs robustas e sistemas escaláveis.
 
-Tenho forte atuação com **PHP aplicado ao Moodle**, desenvolvendo plugins, realizando manutenção de código legado, criando integrações e implementando melhorias estruturais no core e em extensões da plataforma.
+Também tenho experiência com bancos de dados como **MongoDB** e **PostgreSQL**, além de ferramentas de gerenciamento de estado como Redux e soluções de estilização como Tailwind CSS.
 
-Além disso, venho aprofundando meus conhecimentos em **Inteligência Artificial e Machine Learning**, indo desde fundamentos até técnicas mais avançadas.
+Além disso, possuo forte experiência com **Sistemas de Gestão de Aprendizagem (LMS)**, especialmente **Moodle**, atuando na gestão, administração e desenvolvimento de soluções personalizadas, incluindo customizações de interface, integrações e melhorias de performance.
+
+Tenho ampla experiência com **PHP** aplicado ao Moodle, desenvolvendo plugins, mantendo sistemas legados, criando integrações e aprimorando tanto a estrutura do core quanto de extensões.
+
+Também possuo sólida expertise em **Inteligência Artificial e Aprendizado de Máquina**, trabalhando com técnicas fundamentais e avançadas como Regressão Linear e Logística, PCA, Manifold Learning e algoritmos de clusterização como K-Means, DBSCAN, Clusterização Hierárquica e Modelos de Mistura Gaussiana (GMM). Minha experiência inclui ainda Redes Neurais (CNNs e LSTMs), além de abordagens modernas de IA como BERT, YOLO, Transfer Learning, Autoencoders (VAEs), Redes Adversariais Generativas (GANs), Modelos de Difusão e aplicações com Large Language Models (LLMs) e frameworks como LangChain.
 
 ---
 

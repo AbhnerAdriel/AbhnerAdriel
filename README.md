@@ -15,13 +15,13 @@
 
 ## 🚀 Sobre mim
 
-Atuo como desenvolvedor Full Stack com experiência prática na construção de aplicações modernas, escaláveis e bem estruturadas. Tenho domínio tanto no front-end quanto no back-end, aplicando boas práticas, arquitetura limpa e padrões de projeto.
+Atuo como **desenvolvedor Full Stack** com experiência prática na construção de aplicações modernas, escaláveis e bem estruturadas. Tenho domínio tanto no front-end quanto no back-end, aplicando boas práticas, arquitetura limpa e padrões de projeto.
 
 Também possuo experiência sólida com plataformas educacionais (LMS), especialmente com **Moodle**, atuando na gestão, administração e desenvolvimento de soluções personalizadas, incluindo customizações de interface, integrações e melhorias de performance.
 
 Tenho forte atuação com **PHP aplicado ao Moodle**, desenvolvendo plugins, realizando manutenção de código legado, criando integrações e implementando melhorias estruturais no core e em extensões da plataforma.
 
-Além disso, venho aprofundando meus conhecimentos em Inteligência Artificial e Machine Learning, indo desde fundamentos até técnicas mais avançadas.
+Além disso, venho aprofundando meus conhecimentos em **Inteligência Artificial e Machine Learning**, indo desde fundamentos até técnicas mais avançadas.
 
 ---
 

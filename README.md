@@ -98,7 +98,7 @@ Additionally, I’ve been deepening my knowledge in **Artificial Intelligence an
   <a href="https://SEU-SITE-AQUI.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Website-000?style=for-the-badge"/>
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://linkedin.com/in/abhner-adriel-in-profile" target="_blank">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge"/>
   </a>
   <a href="https://instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">

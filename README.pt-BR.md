@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="./README.md">🇧🇷 Português</a> |
-  <a href="./README.pt-BR.md">🇺🇸 English</a>
+  <a href="./README.md">🇺🇸 English</a> |
+  <a href="./README.pt-BR.md">🇧🇷 Português</a>
 </p>
 
 <!-- Banner -->

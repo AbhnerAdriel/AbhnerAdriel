@@ -1,26 +1,98 @@
-## Hi! I'm Abhner! 🖐️
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Abhner%20Adriel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhner-adriel-in-profile/)
-[![Instagram](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.cin.ufpe.br/~aacs2/)
+<h1 align="center">👋 Olá, eu sou Abhner Adriel</h1>
 
-![Abhner's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhnerAdriel&show_icons=true&theme=dracula)
+<p align="center">
+  🎓 Bacharelando em Ciência da Computação — CIn UFPE <br/>
+  💻 Desenvolvedor Full Stack | 🤖 IA e Machine Learning <br/>
+  📈 3+ anos de experiência no mercado
+</p>
 
-## My skills
-<div>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    
-</div>
+---
 
-<br/>
+## 🚀 Sobre mim
 
+Atuo como desenvolvedor Full Stack com experiência prática na construção de aplicações modernas, escaláveis e bem estruturadas. Tenho domínio tanto no front-end quanto no back-end, aplicando boas práticas, arquitetura limpa e padrões de projeto.
 
-Computer Science student at the Centro of Informática at UFPE. Python and Machine learning enthusiast. Game Developer on the Unity engine.
-- [UFPE](https://www.ufpe.br/ciencia-da-computacao-bacharelado-cin) <br/>
-- [Cin-UFPE](https://portal.cin.ufpe.br/) <br/>
+Também venho aprofundando meus conhecimentos em Inteligência Artificial e Machine Learning, indo desde fundamentos até técnicas mais avançadas.
 
+---
+
+## 🧠 Stack Principal (direto ao ponto)
+
+✔ **JavaScript & TypeScript (Full Stack)**  
+- Front-end e Back-end  
+- Node.js, Express  
+- APIs REST  
+- Bancos NoSQL  
+- React (Hooks, Context API)  
+- Redux  
+- Design Patterns  
+
+✔ **React 19 & Next.js 15 (moderno)**  
+- App Router  
+- Server Components  
+- Server Actions  
+- Tailwind CSS  
+- TypeScript  
+- Integração com APIs REST usando NestJS  
+
+✔ **Python (IA / Machine Learning / Deep Learning)**  
+- Regressão Linear e Logística  
+- PCA, K-Means, DBSCAN, Clusterização Hierárquica, GMM  
+- Manifold Learning  
+- Redes Neurais (CNN, RNN, LSTM, GRU)  
+- BERT, YOLO  
+- Transfer Learning  
+- GANs, VAEs, Autoencoders  
+- Diffusion Models  
+- LLMs, LangChain, Vector Databases  
+- Graph Neural Networks  
+- Reinforcement Learning  
+
+✔ **SQL & Banco de Dados Relacional**  
+- Modelagem de dados  
+- Queries complexas  
+- MySQL / PostgreSQL / MariaDB  
+- Query Builders (Knex.js)
+
+---
+
+## 🧰 Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,nestjs,express,mongodb,postgres,redux,tailwind" />
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="left">
+  <a href="https://SEU-SITE-AQUI.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Website-000?style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge"/>
+  </a>
+  <a href="https://instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhnerAdriel&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer"/>
+</p>

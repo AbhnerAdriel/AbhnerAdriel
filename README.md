@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Abhner%20Adriel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=240&section=header&text=Full%20Stack%20Developer&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=JS%2FTS%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20PHP%20%E2%80%A2%20Python%20IA%2FML%20%E2%80%A2%20SQL%20and%20NoSQL&descSize=17&descAlignY=60" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou Abhner Adriel</h1>
